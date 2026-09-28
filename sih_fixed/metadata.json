@@ -1,0 +1,7 @@
+{
+  "name": "SIH",
+  "description": "Accessible multi-lingual road safety, live corridor radar, voice alerts, and emergency SOS platform for North East India highways.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
